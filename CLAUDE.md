@@ -8,5 +8,4 @@ Start with the private [suveryn-handbook](https://github.com/suveryn/suveryn-han
 
 ## Rules
 
-- **One branch and PR per change.** Merge only when the founder says so. Never change repository settings, secrets or CI. A coding agent never pushes: it delivers a patch, applied in a separate worktree, as *Start here* says.
 - **Copy** follows the brand's [Wording and spelling](https://github.com/suveryn/suveryn-brand/blob/main/guidelines/brand-guidelines.md#wording-and-spelling).
